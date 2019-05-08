@@ -1,6 +1,7 @@
 # Write your code here.
 def badge_maker(attendees)
   puts "Hello, my name is #{attendees}."
+  Arel
 end
 
 
@@ -25,3 +26,4 @@ assign_rooms(attendees).each do |assignment|
   puts assignment
 end
 end
+
