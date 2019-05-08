@@ -3,7 +3,7 @@ def badge_maker(attendees)
   puts "Hello, my name is #{attendees}."
 end
 
-people = ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
+attendees = ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
 
 
 def batch_badge_creator(attendees)
