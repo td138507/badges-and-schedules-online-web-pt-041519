@@ -26,6 +26,4 @@ end
   assign_rooms(attendees).each do |assignment|
   puts assignment
 end
-  puts assignment
-end
 end
